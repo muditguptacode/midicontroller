@@ -1,0 +1,15 @@
+{
+  "name": "midikeys",
+  "version": "1.0.0",
+  "description": "a midi controller to macros program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mudit Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "easymidi": "0.0.4",
+    "philips-hue": "^1.2.0"
+  }
+}
